@@ -34,7 +34,7 @@ function App() {
                 height: '100vh'
             }}>
 
-                <Header className="header" style={{background: "antiquewhite"}}><h2>Ulala Clan War Planner</h2></Header>
+                <Header className="header" style={{background: "antiquewhite"}}><h2>WhispersNShadows Clan War </h2></Header>
 
                 <Content style={{
                     margin: '10px',
