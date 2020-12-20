@@ -46,7 +46,7 @@ function App() {
 
                 </Content>
 
-                <Footer className="custom-footer">Developed by kmye ©2019</Footer>
+                <Footer className="custom-footer">Developed for WhispersNShadows Clan @2020 credit: kmye / SaintNick1214</Footer>
             </Layout>
 
         </Layout>
