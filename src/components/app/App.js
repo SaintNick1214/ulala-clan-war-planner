@@ -6,7 +6,7 @@ import {Layout} from "antd";
 import PlayerList from "../player/PlayerList";
 import TeamList from "../team/TeamList";
 import {DndProvider} from "react-dnd";
-import HTML5Backend from 'react-dnd-html5-backend'
+import {HTML5Backend} from 'react-dnd-html5-backend'
 
 const {Header, Footer, Sider, Content} = Layout;
 
@@ -34,7 +34,7 @@ function App() {
                 height: '100vh'
             }}>
 
-                <Header className="header" style={{background: "antiquewhite"}}><h2>WhispersNShadows Clan War </h2></Header>
+                <Header className="header" style={{background: "antiquewhite"}}><h2>WhispersNShadows Clan War</h2></Header>
 
                 <Content style={{
                     margin: '10px',

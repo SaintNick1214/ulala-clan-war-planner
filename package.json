@@ -4,16 +4,16 @@
   "private": true,
   "dependencies": {
     "antd": "^3.23.5",
-    "export-to-csv": "^0.2.1",
+    "export-to-csv": "",
     "prop-types": "^15.7.2",
-    "react": "^16.10.1",
-    "react-dnd": "^9.4.0",
-    "react-dnd-html5-backend": "^9.4.0",
-    "react-dom": "^16.10.1",
-    "react-redux": "^7.1.1",
-    "react-router-redux": "^4.0.8",
-    "react-scripts": "3.1.2",
-    "redux": "^4.0.4"
+    "react": "",
+    "react-dnd": "",
+    "react-dnd-html5-backend": "",
+    "react-dom": "",
+    "react-redux": "",
+    "react-router-redux": "",
+    "react-scripts": "",
+    "redux": ""
   },
   "scripts": {
     "start": "react-scripts start",
@@ -40,6 +40,6 @@
   },
   "homepage": "https://kmye.github.io/ulala-clan-war-planner/",
   "devDependencies": {
-    "gh-pages": "^2.1.1"
+    "gh-pages": ""
   }
 }
